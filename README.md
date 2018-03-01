@@ -8,7 +8,7 @@
 
 - Operating System 操作系统
 
-- Compiling Principle 编译原理
+- Compiling Principle 编译原理
 
 - Software Engineering 软件工程
 
